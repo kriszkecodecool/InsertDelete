@@ -54,6 +54,5 @@ public class InsertDelete {
 		for (int i : array) {
 			System.out.print(i);
 		}
-	}
-
 }
+	}
